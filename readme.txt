@@ -1,0 +1,1 @@
+this is henry warren. i'm a software engineer at meta. just kidding. i don't know why i said that. i'm making this extension to fix youtube's stupid bar. 
